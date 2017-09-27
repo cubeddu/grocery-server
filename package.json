@@ -1,0 +1,16 @@
+{
+  "name": "grocery-server",
+  "version": "1.0.0",
+  "description": "express server - graphql - mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Cubeddu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.5",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.4"
+  }
+}
